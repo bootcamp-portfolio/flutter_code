@@ -1,0 +1,168 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "bmi_image_app",
+            "cwd": "bmi_image_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "bmi_image_app (profile mode)",
+            "cwd": "bmi_image_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "bmi_image_app (release mode)",
+            "cwd": "bmi_image_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "json_movie_github_app",
+            "cwd": "json_movie_github_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "json_movie_github_app (profile mode)",
+            "cwd": "json_movie_github_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "json_movie_github_app (release mode)",
+            "cwd": "json_movie_github_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "memo_app",
+            "cwd": "memo_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "memo_app (profile mode)",
+            "cwd": "memo_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "memo_app (release mode)",
+            "cwd": "memo_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "riverpods_must_eat",
+            "cwd": "riverpods_must_eat",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpods_must_eat (profile mode)",
+            "cwd": "riverpods_must_eat",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "riverpods_must_eat (release mode)",
+            "cwd": "riverpods_must_eat",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "riverpod_count_app",
+            "cwd": "riverpod_count_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_count_app (profile mode)",
+            "cwd": "riverpod_count_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "riverpod_count_app (release mode)",
+            "cwd": "riverpod_count_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "riverpod_crude_app",
+            "cwd": "riverpod_crude_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "riverpod_crude_app (profile mode)",
+            "cwd": "riverpod_crude_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "riverpod_crude_app (release mode)",
+            "cwd": "riverpod_crude_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "tabbar_app",
+            "cwd": "tabbar_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "tabbar_app (profile mode)",
+            "cwd": "tabbar_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "tabbar_app (release mode)",
+            "cwd": "tabbar_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "textfield_calc_ex_app",
+            "cwd": "textfield_calc_ex_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "textfield_calc_ex_app (profile mode)",
+            "cwd": "textfield_calc_ex_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "textfield_calc_ex_app (release mode)",
+            "cwd": "textfield_calc_ex_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407645703220",
+    "project_id": "memos-1a025",
+    "storage_bucket": "memos-1a025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407645703220:android:1c7952de16dd66049fce61",
+        "android_client_info": {
+          "package_name": "com.example.memo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTRqeg5wul0tVblDkJubr9qbzQg5xDDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
